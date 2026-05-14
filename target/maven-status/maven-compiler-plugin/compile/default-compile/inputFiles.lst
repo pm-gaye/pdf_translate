@@ -1,0 +1,17 @@
+C:\2026\eclipse\spring-project\pdf_translate\src\main\java\com\translator\beans\LoginBean.java
+C:\2026\eclipse\spring-project\pdf_translate\src\main\java\com\translator\beans\TranslatorBean.java
+C:\2026\eclipse\spring-project\pdf_translate\src\main\java\com\translator\beans\UserInfo.java
+C:\2026\eclipse\spring-project\pdf_translate\src\main\java\com\translator\dao\GenericDAO.java
+C:\2026\eclipse\spring-project\pdf_translate\src\main\java\com\translator\dao\GenericDAOImpl.java
+C:\2026\eclipse\spring-project\pdf_translate\src\main\java\com\translator\dao\PersonneDAO.java
+C:\2026\eclipse\spring-project\pdf_translate\src\main\java\com\translator\metier\Fichier.java
+C:\2026\eclipse\spring-project\pdf_translate\src\main\java\com\translator\metier\Personne.java
+C:\2026\eclipse\spring-project\pdf_translate\src\main\java\com\translator\model\TranslationResult.java
+C:\2026\eclipse\spring-project\pdf_translate\src\main\java\com\translator\model\TranslationStatus.java
+C:\2026\eclipse\spring-project\pdf_translate\src\main\java\com\translator\service\AuthService.java
+C:\2026\eclipse\spring-project\pdf_translate\src\main\java\com\translator\service\HtmlToPdfService.java
+C:\2026\eclipse\spring-project\pdf_translate\src\main\java\com\translator\service\HtmlTranslationService.java
+C:\2026\eclipse\spring-project\pdf_translate\src\main\java\com\translator\service\PdfToHtmlService.java
+C:\2026\eclipse\spring-project\pdf_translate\src\main\java\com\translator\service\TranslationOrchestrator.java
+C:\2026\eclipse\spring-project\pdf_translate\src\main\java\com\translator\utils\HibernateContextListner.java
+C:\2026\eclipse\spring-project\pdf_translate\src\main\java\com\translator\utils\HibernateUtil.java
