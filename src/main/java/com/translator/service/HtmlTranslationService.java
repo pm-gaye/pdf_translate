@@ -43,7 +43,7 @@ public class HtmlTranslationService {
     private static final int BATCH_SIZE = 50;
 
     private static final String TRANSLATION_API = "deepl";
-    private static final String DEEPL_API_KEY   = "f7cc122d-e3bf-40e8-b192-df9be06d9d57:fx";
+    private static final String DEEPL_API_KEY   = "your_key";
     private static final String DEEPL_URL        = "https://api-free.deepl.com/v2/translate";
 
     public String translateHtml(String html) throws Exception {
